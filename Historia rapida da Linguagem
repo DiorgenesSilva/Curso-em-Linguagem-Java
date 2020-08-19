@@ -1,0 +1,9 @@
+HISTOIA RAPIDA DA LINGUAGEM 
+Em 1991,um grupo de engenheiros da Sun Microsyatems foi encarregado de criar uma nov a linguagem que pudesse ser utilizada em pequenos equipamentos,como controles de TV,telefones,fornos,geldeiras,etc.Essa linguagem deveria dar a esses aparelhos a capacidade  de se comunicar entre si,para que a casa se comportasse como uma federação. Deveria ainda ser capaz de gerar códigos muito pequenos,que pudessem ser executados em varios aparelhos diferentes,e praticamente infalivel.
+Os engenheiros escolheram o C++ como ponto de partida.orientada a objetos,muito poderosa e gerando pequenos programas,parecia a escolha correta. Para solucionar o peoblema árias   da execução em várias arquiteturas,eles utilizaram o conceito de maquina virtual,onde cada fabricante iria supportar algumas funções basicas que os programas utilizam.
+Até hoje a linguagem resultante desde projeto não é utilizada em aparelhos eletrodomésticos.Ao invés disso,o java se tornou uma das linguagens de programação mais utilizada no planet.
+
+VANTAGENS DO jAVA(porque estudar essa linguagem?)
+Na maioria da slinguagens de programação,voce precisa compilar ou interpretar  um programa para que ele seja executado em seu compuatdor. A linguagem java é diferente,ppois seus programas são compilados e interpretados.
+Com o compilador voce iniciLmente transforma o seu proograma em uma linguagem de platafoma intermediária,chamada bytecode
+ Esse código é indepndente de plataforma,e é mais tarde interpretado por um interpretador Java. A compilação aconttece apenas uma vez; a interpretação acontece toda vez que seu programa é executado 
